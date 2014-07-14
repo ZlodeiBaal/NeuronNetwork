@@ -1,0 +1,8 @@
+E:\Наработки\TryEasyNeuroField\TryEasyNeuroField\bin\Debug\TryEasyNeuroField.exe
+E:\Наработки\TryEasyNeuroField\TryEasyNeuroField\bin\Debug\TryEasyNeuroField.pdb
+E:\Наработки\TryEasyNeuroField\TryEasyNeuroField\obj\x86\Debug\TryEasyNeuroField.csprojResolveAssemblyReference.cache
+E:\Наработки\TryEasyNeuroField\TryEasyNeuroField\obj\x86\Debug\TryEasyNeuroField.Form1.resources
+E:\Наработки\TryEasyNeuroField\TryEasyNeuroField\obj\x86\Debug\TryEasyNeuroField.Properties.Resources.resources
+E:\Наработки\TryEasyNeuroField\TryEasyNeuroField\obj\x86\Debug\TryEasyNeuroField.csproj.GenerateResource.Cache
+E:\Наработки\TryEasyNeuroField\TryEasyNeuroField\obj\x86\Debug\TryEasyNeuroField.exe
+E:\Наработки\TryEasyNeuroField\TryEasyNeuroField\obj\x86\Debug\TryEasyNeuroField.pdb
